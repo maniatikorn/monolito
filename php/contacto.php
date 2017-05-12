@@ -1,7 +1,7 @@
 <?php
 	$nombre = $_POST['nombre'];
 	$mail = $_POST['mail'];
-	$telefono = $_POST['telefono'];
+	$telefono = $_POST['telmovil'];
 	$descripcion = $_POST['descripcion'];
 	$para = "info@mimonolito.com";
 	$asunto ="Un cliente te ha contactado desde el sitio web.";
